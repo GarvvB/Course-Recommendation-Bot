@@ -1,8 +1,3 @@
-Here's a beautiful and complete `README.md` for your **Course Recommendation Bot** project, designed to impress recruiters, teachers, and GitHub visitors. It includes all major sections with badges, features, setup, demo, and credits.
-
----
-
-```markdown
 # 🎓 Course Recommendation Bot using IBM Watsonx.ai
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
