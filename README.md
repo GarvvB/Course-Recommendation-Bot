@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
 ![Django](https://img.shields.io/badge/Django-4.x-green.svg)
 ![Watsonx](https://img.shields.io/badge/IBM-watsonx.ai-ff9900?logo=ibm)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 An AI-powered course recommendation system that uses IBM Watsonx.ai's Foundation Models and Django to provide smart, tailored course suggestions based on user interests. Built with a clean UI, dynamic prompt engineering, and CSV-driven knowledge base.
 
