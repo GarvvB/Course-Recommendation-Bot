@@ -9,8 +9,9 @@ An AI-powered course recommendation system that uses IBM Watsonx.ai's Foundation
 ---
 
 ## 📸 Demo
+![Course Recommendation vid 1](https://github.com/user-attachments/assets/e61e042a-90cf-4dc6-9f53-89319c0f8dd7)
 
-![Course Recommender UI Demo](https://user-images.githubusercontent.com/yourusername/demo-image.gif)
+![Course Recommendation Vid 2](https://github.com/user-attachments/assets/2b088e18-bdac-4ded-bb45-e7eb7d739b21)
 
 > _"Just type what you're interested in, and our AI finds the best learning paths for you!"_
 
